@@ -1,6 +1,6 @@
 <body style="background-color:pink">
     <h1><?php
-        echo "hello world"; 
+        echo "Hello World"; 
     ?></h1>
 </body>
 
